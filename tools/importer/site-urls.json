@@ -1,0 +1,68 @@
+{
+  "originUrl": "https://sunfeastworld.com",
+  "aborted": false,
+  "lastCrawled": "https://sunfeastworld.com/",
+  "urls": [
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "source": "SITEMAPS",
+      "targetPath": "/factory-address",
+      "id": "1eb981116180b53d3b82145bb7e5fdd6323fca08"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "source": "SITEMAPS",
+      "targetPath": "/homepage-msm-moved",
+      "id": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy-msm-moved",
+      "id": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "source": "SITEMAPS",
+      "targetPath": "/sunfeast-milkshake",
+      "id": "d2e8e52288a173f67468f9b65eb2a308b06a7d10"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sunfeastworld.com/content/sunfeast-world/in/en/factory-address.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastworld.com/factory-address.html"
+    },
+    {
+      "url": "https://sunfeastworld.com/content/sunfeast-world/in/en/homepage_msm_moved.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastworld.com/homepage_msm_moved.html"
+    },
+    {
+      "url": "https://sunfeastworld.com/content/sunfeast-world/in/en/privacy-policy_msm_moved.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastworld.com/privacy-policy_msm_moved.html"
+    },
+    {
+      "url": "https://sunfeastworld.com/content/sunfeast-world/in/en/sunfeast-milkshake.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastworld.com/sunfeast-milkshake.html"
+    },
+    {
+      "url": "https://sunfeastworld.com/content/sunfeast-world/in/en/",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":4,\"E_404\":1}",
+  "error": null
+}
