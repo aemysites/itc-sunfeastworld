@@ -1,0 +1,256 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176,
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-04-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-05-63ec1df6a1e01c44f708345d5176253cb38ad729",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 128, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-03-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-04-24e381ea2aa47cc49c6eca3891136f9c4562e317",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 2,
+      "source": "Header",
+      "target": "Header (header2)",
+      "key": "header2",
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-01-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-02-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-04-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-02-3b27b6f91909629403e8975894d279ae931c0b4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-03-bb3368a79da631774b6bc4f3ce54e072db649d3e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-05-63ec1df6a1e01c44f708345d5176253cb38ad729",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 166, 38) none no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 128, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    }
+  ]
+}
