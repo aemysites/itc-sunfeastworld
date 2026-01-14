@@ -1,0 +1,297 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176,
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-04-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-05-63ec1df6a1e01c44f708345d5176253cb38ad729",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 128, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-03-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-04-24e381ea2aa47cc49c6eca3891136f9c4562e317",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-04-1cb6e3f3086f95d4ccd400cdb83d37dd03f8af44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 2,
+      "source": "Header",
+      "target": "Header (header2)",
+      "key": "header2",
+      "instances": [
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+          "uuid": "1eb98111-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+          "uuid": "b32dfa0d-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+          "uuid": "d2e8e522-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+          "uuid": "ea8e3cea-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-01-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-02-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "urlHash": "1eb981116180b53d3b82145bb7e5fdd6323fca08",
+      "uuid": "1eb98111-04-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-02-3b27b6f91909629403e8975894d279ae931c0b4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-03-bb3368a79da631774b6bc4f3ce54e072db649d3e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "urlHash": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77",
+      "uuid": "b32dfa0d-05-63ec1df6a1e01c44f708345d5176253cb38ad729",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "urlHash": "d2e8e52288a173f67468f9b65eb2a308b06a7d10",
+      "uuid": "d2e8e522-05-5fc4a050e45673e3f111670a18868f9d45a14f6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "urlHash": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f",
+      "uuid": "ea8e3cea-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://sunfeastworld.com/factory-address.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Factory Locator FOR BRAND OWNER\u2019S ADDRESS, MANUFACTURING AND/OR PACKAGING UNITS\u2019 FSSAI LICENSE NUMBER & ADDRESS, PLEASE SEE BELOW For the Manufacturing and/or Packaging Units\u2019 FSSAI License Number & Address, Match the Last two Characters of the Batch No. printed on the package with the corresponding Alphabet mentioned before the Manufacturing Unit and/or Packaging Unit given below. Biscuits and Cakes (05) UTSAV FOOD PRODUCTS, PIJ ROAD, AT & PO. TUNDEL, NADIAD.,NADIAD(KHEDA), Gujarat-387230. Lic. No. 10012021000230 (08) VELL BISCUITS (P) LTD., R.S. NO. 4/5, 4/1 A2, SANYASIKUPPAM ROAD, THIRUBHUVANAI, Puducherry- Rural, Puducherry-605107. Lic. No. 10012045000007 (11) Food Creations Private Limited, S.No.34,Kacharakanahalli Village,Naduvathi Post, Hoskote Taluk, Hosakote, Bangalore Rural, Karnataka-560067. Lic. No. 10012043000081 (13) Narayana processed Food Pvt.Ltd, FP 15-21, ORANGE CITY FOOD PARK, MIDC BUTIBORI, Nagpur, Maharashtra-441122. Lic. No. 10012022000385 (14) DISHA FOODS PVT LTD, PLOT NO: 82, IDA, KATTEDAN, HYDERABAD, Rajendranagar, Rangareddi, Telangana-500077. Lic. No. 10014047000057 (06) ITC Limited, Foods Division, Plot No 1, Sector 11, IIE, Ranipur, Sidcul, Haridwar, Uttarakhand-249403. Lic. No. 10012012000154 (17) RANGAA FOOD INDUSTRIES PRIVATE LIMITED, S.F.NO 667/A,TRICHY KOVAI MAIN ROAD, VELLAKOVIL, KANGEYAM (T.K), TIRUPPUR DISTRICT ,TAMIL NADU , Erode block, Erode, Tamil Nadu-638111. Lic. No. 10012042000186 (18) DREAM BAKE PRIVATE LIMITED, PLOT NO. - F1 & F2, KANDUAH FOOD PARK, WBIDC PHASE - II, P.O. - SANKRAIL, DIST. - HOWRAH, West Bengal-711302. Lic. No. 10012031000037 (20) Gokul Foods Pvt. Ltd., Village Gudhrolli, Tehsil Bindki, Chaudagra, District Fatehpur, Bindki Tahsil, Fatehpur, Uttar Pradesh-212665. Lic. No. 10012051000141 (23) S.S.FOOD INDUSTRIES, 217 A/1, CHANDIGARH ROAD, HIRAN, LUDHIANA, Ludhiana-2(P/S Tibba, 6,7, Moti Nagar, Jamalpur, Meharban), Ludhiana, Punjab-141112. Lic. No. 10012063000078 (24) Parsons Nutritionals Private Limited, Plot No.5, Site - IV, Industrial Area, Sahibabad, Ghaziabad, Uttar Pradesh-201010. Lic. No. 10013051000500 (26) KROWN AGROFOODS PVT. LTD., C-241, Bulandsahar Road, Industrial Area, Site-1, Ghaziabad (UP)-201009. Lic. No. 10012051000219 (21) NamoBalaji Foods (I) Pvt. Ltd., Sy.no.564 Raghavapur village, Bibinagar Mandal, Nalgonda, Telangana-508128. Lic. No. 10014047000281 (29) NORTH EAST NUTRIENTS PRIVATE LIMITED, VILLAGE-RAMHARI, P.O-MANGALDAI, Darrang, Assam-784125. Lic. No. 10015071000795 (30) ITC Limited, Foods Division, Mouza \u2013 Amraberia, J.L. No. \u2013 8, P.S. \u2013 Uluberia, District Howrah, West Bengal \u2013 711303. Lic. No. 10016031001781 (31) ITC Limited, Foods Division, NH-37, Bortejpur, Mouza-Rampur, Kukurmara, Kamrup Sadar Sub-Division, Kamrup Dist., Assam-781134. Lic. No. 10017071000926 (36) ITC Limited, Foods Division, ICML, Velur & Vadugapatti Village, Viralimalai Tk, , Viralimalai block, Pudukkottai, Tamil Nadu-621316. Lic. No. 10018042004042 (43) ITC Limited, Plot No. A-1-A, IMUIP, Near Modern Jail, Kapurthala 2(Phagwara & kapurthala),Kapurthala, Punjab-144601 Lic. No. 10017063001007 (34) TULSI PACKAGING COMPANY, PLOT NUMBER 25, SECTOR 1-B IIE SIDCUL HARIDWAR-249403. Lic. No. 10018012000497 (42) Geo Nutri Foods Pvt. Ltd., Village Nowapara Amta Bagnan Road, Howrah, West Bengal-711303. Lic. No. 10015031001657 (47) Parsons Nutritionals Private Limited, No. 319-C, 320 A & B 321 and Survey No.225/2, 225/3 and 225/5 to 225/10 KIADB Industrial Area, Harohalli,Kanakapura Taluk, Ramanagara District, Ramanagara, Karnataka-562112. Lic. No. 10012043000056 (48) NEVAEH FIRST SOURCE SOLUTIONS PRIVATE LIMITED, Plot No. 100, Sector 5, IIE, Sidcul, Haridwar, Uttarakhand-249403. Lic. No. 12621999000017 (49) Southern Bakeries Private Limited, Plot No.117, Road No.4, KIADB, Jigani Industrial Area, 2nd Phase, Anekal, Bangalore Urban, Karnataka-560105. Lic. No. 10012043000237 (50) ANKIT BISCUITS PVT LTD., 7-4-112/A, MADHUBAN COLONY ROAD, KATTEDAN I D A , HYDERABAD, Rangareddi, Telangana-500077. Lic. No. 10014047000039 (41) ITC Limited, Foods Division, Sy. No. 395 to 412, 416, 417, 447, 449 to 451, Manoharabad (V & M), Medak, Telangana-502336. Lic. No. 13621999000184 (52) DOLCI CAFE PRIVATE LIMITED, NO. 1, PID NO.96/1/206/6/1, WARD NO.9 CANARA BANK LAYOUT,KODIGEHALLI YELAHANKA HOBLI, YELAHANKA,B.B.M.P North KARNATAKA,Pin- 560097 Lic. No. 11225331000587 (53) SAA VISHNU BAKERS Pvt ltd . HAZAM BASTI ROAD 10TH MILE CHOWK , NEAR TAURIAN WORLD SCHOOL , KHUTI ROAD RANCHI - 835221 Lic. No. 10012034000102 Brand Owner\u2019s Address - Marketed By: ITC LIMITED, 37, J.L Nehru Road, Virginia House, Kolkata 700 071. Lic. No. 10012031000312"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Terms of use Privacy Policy"
+        }
+      ],
+      "similarity_score": 0.9990769679757638
+    },
+    {
+      "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Factory Locator FOR BRAND OWNER\u2019S ADDRESS, MANUFACTURING AND/OR PACKAGING UNITS\u2019 FSSAI LICENSE NUMBER & ADDRESS, PLEASE SEE BELOW For the Manufacturing and/or Packaging Units\u2019 FSSAI License Number & Address, Match the Last two Characters of the Batch No. printed on the package with the corresponding Alphabet mentioned before the Manufacturing Unit and/or Packaging Unit given below. Biscuits and Cakes (05) UTSAV FOOD PRODUCTS, PIJ ROAD, AT & PO. TUNDEL, NADIAD.,NADIAD(KHEDA), Gujarat-387230. Lic. No. 10012021000230 (08) VELL BISCUITS (P) LTD., R.S. NO. 4/5, 4/1 A2, SANYASIKUPPAM ROAD, THIRUBHUVANAI, Puducherry- Rural, Puducherry-605107. Lic. No. 10012045000007 (11) Food Creations Private Limited, S.No.34,Kacharakanahalli Village,Naduvathi Post, Hoskote Taluk, Hosakote, Bangalore Rural, Karnataka-560067. Lic. No. 10012043000081 (13) Narayana processed Food Pvt.Ltd, FP 15-21, ORANGE CITY FOOD PARK, MIDC BUTIBORI, Nagpur, Maharashtra-441122. Lic. No. 10012022000385 (14) DISHA FOODS PVT LTD, PLOT NO: 82, IDA, KATTEDAN, HYDERABAD, Rajendranagar, Rangareddi, Telangana-500077. Lic. No. 10014047000057 (06) ITC Limited, Foods Division, Plot No 1, Sector 11, IIE, Ranipur, Sidcul, Haridwar, Uttarakhand-249403. Lic. No. 10012012000154 (17) RANGAA FOOD INDUSTRIES PRIVATE LIMITED, S.F.NO 667/A,TRICHY KOVAI MAIN ROAD, VELLAKOVIL, KANGEYAM (T.K), TIRUPPUR DISTRICT ,TAIMIL NADU , Erode block, Erode, Tamil Nadu-638111. Lic. No. 10012042000186 (18) DREAM BAKE PRIVATE LIMITED, PLOT NO. - F1 & F2, KANDUAH FOOD PARK, WBIDC PHASE - II, P.O. - SANKRAIL, DIST. - HOWRAH, West Bengal-711302. Lic. No. : 10012031000037 (20) Gokul Foods Pvt. Ltd., Village Gudhrolli, Tehsil Bindki, Chaudagra, District Fatehpur, Bindki Tahsil, Fatehpur, Uttar Pradesh-212665. Lic. No. 10012051000141 (23) S.S.FOOD INDUSTRIES, 217 A/1, CHANDIGARH ROAD, HIRAN, LUDHIANA, Ludhiana-2(P/S Tibba, 6,7, Moti Nagar, Jamalpur, Meharban), Ludhiana, Punjab-141112. Lic. No. 10012063000078 (24) Parsons Nutritionals Private Limited, Plot No.5, Site - IV, Industrial Area, Sahibabad, Ghaziabad, Uttar Pradesh-201010. Lic. No. 10013051000500 (26) KROWN AGROFOODS PVT. LTD., C-241, Bulandsahar Road, Industrial Area, Site-1, Ghaziabad (UP)-201009. Lic. No. 10012051000219 (21) NamoBalaji Foods (I) Pvt. Ltd., Sy.no.564 Raghavapur village, Bibinagar Mandal, Nalgonda, Telangana-508128. Lic. No. 10014047000281 (29) NORTH EAST NUTRIENTS PRIVATE LIMITED, VILLAGE-RAMHARI, P.O-MANGALDAI, Darrang, Assam-784125. Lic. No. 10015071000795 (30) ITC Limited, Foods Division, Mouza \u2013 Amraberia, J.L. No. \u2013 8, P.S. \u2013 Uluberia, District Howrah, West Bengal \u2013 711303. Lic. No. 10016031001781 (31) ITC Limited, Foods Division, NH-37, Bortejpur, Mouza-Rampur, Kukurmara, Kamrup Sadar Sub-Division, Kamrup Dist., Assam-781134. Lic. No. 10017071000926 (36) ITC Limited, Foods Division, ICML, Velur & Vadugapatti Village, Viralimalai Tk, , Viralimalai block, Pudukkottai, Tamil Nadu-621316. Lic. No. 10018042004042 (43) ITC Limited, Plot No. A-1-A, IMUIP, Near Modern Jail, Kapurthala 2(Phagwara & kapurthala),Kapurthala, Punjab-144601 Lic. No. 10017063001007 (34) TULSI PACKAGING COMPANY, PLOT NUMBER 25, SECTOR 1-B IIE SIDCUL HARIDWAR-249403. Lic. No. 10018012000497 (42) Geo Nutri Foods Pvt. Ltd., Village Nowapara Amta Bagnan Road, Howrah, West Bengal-711303. Lic. No. 10015031001657 (46) AAKRITI SUPER SNACKS PVT LTD., Village-Kolar,Tehsil-Abhanpur,Raipur, Raipur, Chhattisgarh-493661. Lic. No. 10017037000273 (47) Parsons Nutritionals Private Limited, No. 319-C, 320 A & B 321 and Survey No.225/2, 225/3 and 225/5 to 225/10 KIADB Industrial Area, Harohalli,Kanakapura Taluk, Ramanagara District, Ramanagara, Karnataka-562112. Lic. No. 10012043000056 (48) NEVAEH FIRST SOURCE SOLUTIONS PRIVATE LIMITED, Plot No. 100, Sector 5, IIE, Sidcul, Haridwar, Uttarakhand-249403. Lic. No. 12621999000017 (49) Southern Bakeries Private Limited, Plot No.117, Road No.4, KIADB, Jigani Industrial Area, 2nd Phase, Anekal, Bangalore Urban, Karnataka-560105. Lic. No. 10012043000237 (50) ANKIT BISCUITS PVT LTD., 7-4-112/A, MADHUBAN COLONY ROAD, KATTEDAN I D A , HYDERABAD, Rangareddi, Telangana-500077. Lic. No. 10014047000039 (51) Pahal Foods Pvt. Ltd., 7-4-112/2, Madhuban Colony Road, Kattedan IDA, Hyderabad, Rangareddi Telangana-500077. Lic. No. 10014047000040 (41) ITC Limited, Foods Division, Sy. No. 395 to 412, 416, 417, 447, 449 to 451, Manoharabad (V & M), Medak, Telangana-502336. Lic. No. 13621999000184 Brand Owner\u2019s Address - Marketed By: ITC LIMITED, 37, J L Nehru Road, Virginia House, Kolkata 700 071. Lic. No. 10012031000312"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Terms of use Privacy Policy"
+        }
+      ],
+      "similarity_score": 0.9990217863322552
+    },
+    {
+      "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Privacy Policy ITC Limited welcomes you to its website and looks forward to a meaningful interaction with you. ITC Limited respects an individual's right to privacy. This policy lays down our practices with respect to confidentiality and disclosure of personal information. Please familiarize yourself with our privacy practices, as given below. Should you choose to share your personal information with ITC Limited, it will be assumed that you have no objection to the terms of this privacy policy. Collection of Personal Information ITC Limited collects personal information only when it is required for business purposes. While collecting any personal information, ITC Limited indicates the purpose of collection of such information and obtains the consent of the provider of the information in writing. ITC Limited gives the person providing the information an option of not providing the information. He also has the option of withdrawing his consent given earlier. In such cases, ITC Limited may choose not to provide any services/supply goods for which the information was necessary. While collecting information, ITC Limited or any entity authorized on its behalf to collect information takes such steps as are, in the circumstances, reasonable to ensure that the person providing the information has the knowledge of - the fact that the information is being collected the purpose for which the information is being collected; and the intended recipients of the information The providers of information are permitted, as and when requested by them, to review the information they had provided. Confidentiality and Disclosure of personal information The terms of confidentiality and disclosure of personal information will be recorded in the non-disclosure agreement that may be entered into with the provider of the information. ITC Limited has also adopted reasonable security practices and procedures comprising of managerial, technical, operational and physical security control measures with a view to ensure confidentiality and prevent unauthorized disclosure of personal information. ITC Limited uses the personal information only for the purpose for which the same has been furnished. ITC Limited does not retain information after the purpose for which it is furnished is accomplished unless the same is required to be retained under any law in force or for audit purposes. In such cases also, confidentiality of such information is maintained. Policy for Website usage Any personal information shared by you in this Website shall be kept confidential in accordance with ITC Limited's reasonable security practices and procedures. Personal information, shared by you, shall be used for doing the intended business with you. ITC Limited assures you that in the event of your personal information being shared by ITC Limited with its subsidiaries, business associates etc., such sharing of information shall be for the purpose of doing the intended business with you. You hereby grant your consent to ITC Limited to share such information with its subsidiaries, business associates etc. ITC Limited reserves its rights to collect, analyse and disseminate aggregate site usage patterns of all its visitors with a view to enhance its services to the visitors. This includes sharing the information with its subsidiaries and business associates as a general business practice. In the course of its business, ITC Limited may hold on-line contests and surveys as permitted by law and it reserves its right to use and disseminate the information so collected to enhance its services to the visitors. This shall also include sharing the information with its subsidiaries and business associates as a general business practice. Cookies: - To personalize your experience on ITC Limited's Website or to support one of its promotions, ITC Limited may assign your computer browser a unique random number (cookie). \"Cookies\" enhance website performance in important ways like personalizing your experience, or making your visit more convenient. Your privacy and security will not be compromised when you accept a \"cookie\" from ITC Limited's Website. ITC Limited shall not be responsible in any manner whatsoever for any violation or misuse of your personal information by unauthorised persons consequent to misuse of the internet environment"
+        },
+        {
+          "change_type": "deletion",
+          "text": "."
+        },
+        {
+          "change_type": "insertion",
+          "text": ". Terms of use Privacy Policy"
+        }
+      ],
+      "similarity_score": 0.9996879708557497
+    },
+    {
+      "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "Terms of use Privacy Policy"
+        }
+      ],
+      "similarity_score": 0.0
+    }
+  ]
+}
