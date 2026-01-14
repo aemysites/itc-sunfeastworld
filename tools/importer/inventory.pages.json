@@ -1,0 +1,32 @@
+{
+  "templates": [
+    {
+      "name": "News Listing",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://sunfeastworld.com/sunfeast-milkshake.html",
+          "uuid": "d2e8e52288a173f67468f9b65eb2a308b06a7d10"
+        },
+        {
+          "url": "https://sunfeastworld.com/privacy-policy_msm_moved.html",
+          "uuid": "ea8e3ceafa346acf130e8880720f7c9a0a7bf77f"
+        }
+      ]
+    },
+    {
+      "name": "Article Page",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://sunfeastworld.com/homepage_msm_moved.html",
+          "uuid": "b32dfa0d8c872b5d269b5104cb40cc67b8546a77"
+        },
+        {
+          "url": "https://sunfeastworld.com/factory-address.html",
+          "uuid": "1eb981116180b53d3b82145bb7e5fdd6323fca08"
+        }
+      ]
+    }
+  ]
+}
